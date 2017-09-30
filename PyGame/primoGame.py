@@ -1,4 +1,4 @@
-# Pixel random on the screen
+# Random pixels on the screen
 
 import pygame
 from pygame.locals import *
